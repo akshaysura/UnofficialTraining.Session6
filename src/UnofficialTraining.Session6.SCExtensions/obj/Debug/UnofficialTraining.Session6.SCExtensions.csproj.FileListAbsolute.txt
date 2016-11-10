@@ -1,0 +1,6 @@
+C:\Projects\Unofficial Training\Session 6\UnofficialTraining.Session6.SCExtensions\bin\Debug\UnofficialTraining.Session6.SCExtensions.dll
+C:\Projects\Unofficial Training\Session 6\UnofficialTraining.Session6.SCExtensions\bin\Debug\UnofficialTraining.Session6.SCExtensions.pdb
+C:\Projects\Unofficial Training\Session 6\UnofficialTraining.Session6.SCExtensions\bin\Debug\Sitecore.Kernel.dll
+C:\Projects\Unofficial Training\Session 6\UnofficialTraining.Session6.SCExtensions\obj\Debug\UnofficialTraining.Session6.SCExtensions.csprojResolveAssemblyReference.cache
+C:\Projects\Unofficial Training\Session 6\UnofficialTraining.Session6.SCExtensions\obj\Debug\UnofficialTraining.Session6.SCExtensions.dll
+C:\Projects\Unofficial Training\Session 6\UnofficialTraining.Session6.SCExtensions\obj\Debug\UnofficialTraining.Session6.SCExtensions.pdb
